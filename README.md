@@ -1,21 +1,27 @@
 # Employee Details
 
-tech Stack : ReactJS || Material UI || JSON-SERVER
+Tech Stack : ReactJS || Material UI || JSON-SERVER
 
 # Functionality
 
-1.All Employee Details 
-2.Retrieved the employee
-3.Update the Employee
-4.Remove the Employee
+<ui>
+  <li>All Employee Details</li> 
+   <li>Retrieved the employee</li>
+  <li>Update the Employee</li>
+  <li>Remove the Employee</li>
 
 # How to use
 Clone repo into your local machine
+Move to /ass1 folder to your terminal follow  steps as given below
 <br>
-<ui>
-  Move to /ass1 folder to your terminal   
-  do npm install
-  json-server -port 3001 --watch db.json [to run JSON-SERVER]
-  npm start
-</ui>
+  <ui>
+    <li>npm install</li>
+    <li>json-server -port 3001 --watch db.json [to run JSON-SERVER]</li>
+    <li>npm start</li>
+  </ui>
+  
+ 
+  
+  
+  
 
